@@ -1,4 +1,4 @@
-# DS614 - Big Data Engineering Project: ScholarMatch
+# ScholarMatch - AI
 
 **Live Deployment:** [https://ds614-faculty-finder-the-data-engineers.streamlit.app](https://ds614-faculty-finder-the-data-engineers.streamlit.app)
 
